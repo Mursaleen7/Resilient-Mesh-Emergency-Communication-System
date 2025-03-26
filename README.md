@@ -1,7 +1,5 @@
 # Resilient-Mesh-Emergency-Communication-System
 
-# Resilient Mesh Emergency Communication System
-
 
 This application is like a special walkie-talkie system that works when your phone doesn't.
 
